@@ -1,11 +1,12 @@
-body {
-              background-color: darkgray;
-              margin: 10px;
-              padding: 10px;
-              height: 100vh;
-              width: 100vh;
-              border: 4px solid #000;
-          }
+*{
+text-align: center;
+color: #ff0000;
+background: #000;
+box-shadow: 7px 7px 7px #000;
+width: 600px;
+text-align: center;
+
+}
 
 
 
@@ -27,8 +28,59 @@ body {
               top: 20px;
               left: 45px;
            }
+
+.div{
+color: darkorange;
+text-shadow: 2px 3px 4px #068;
+border: 4px solid #ff0000;
+box-shadow: 2px 3px 4px #009;
+margin: 25px;
+width: 100px;
+
+}
+
+
+button{
+  border-color: #46473E;
+width: 200px;
+box-shadow: 2px 4px 7px #46473E;
+
+}
+body{
+background: url(wallpaperflare.com_wallpaper.jpg);
+
+}
 h1{
+text-shadow: 2px 3px 4px #00ffff;
+
+}
+h2{
+text-shadow: 2px 3px 4px #00ffff;
+}
+h3{
+text-shadow: 2px 3px 4px #00ffff;
+}
+h4{
+text-shadow: 2px 3px 4px #00ffff;
+}
+h5{
+text-shadow: 2px 3px 4px #00ffff;
+}
+.box01{
+border: 2px solid #00ffff;
+box-shadow: 2px 3px 4px #00ffff;
+border-color: #068;
+}
+details{
+border: 4px solid #00ffff;
 width: 300px;
-height: 3px;
-po
+}
+p{
+border: 3px solid #009;
+}
+h3{
+color: chartreuse;
+text-shadow: 2px 3px 4px #108;
+border: 4px solid #ff0000;
+width: 300px;
 }

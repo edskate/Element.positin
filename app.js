@@ -14,3 +14,6 @@ $elementExampleLast.addEventListener('click', function(event){
 thi.classList.toggle('elementExample_isActive')
 $elementExampleFirst.classList.add('elementExample_')
 })
+
+document.write("<p>olá mundo </p>");
+
